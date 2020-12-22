@@ -1,0 +1,15 @@
+[package]
+name = "EC"
+version = "0.1.0"
+authors = ["Otavio-burato <otavioburato42@gmail.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+actix-web = "3"
+actix-files = "0.3"
+env_logger = "0.7"
+serde = "1.0"
+serde_json = "1.0"
+sonic-channel = { version = "0.4" }
