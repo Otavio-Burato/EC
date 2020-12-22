@@ -7,3 +7,5 @@ mkdir -p ../web-site/static/css
 mkdir -p ./static/css
 cp ../web-site/static/css/main.css ./static/css/main.css
 
+
+
